@@ -1,2 +1,4 @@
 node_modules 
 .env
+
+git remote add origin https://github.com/Habibat-Yinusa/City-Explorer.git
